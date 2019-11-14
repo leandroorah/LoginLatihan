@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#4c7384}.cls-4{stroke:#4c7384}.cls-5{stroke:none}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h24v24H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="ic_store" class="cls-2">
+        <path id="Rectangle_7978" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 7978"/>
+        <g id="Group_14211" data-name="Group 14211" transform="translate(.5 2)">
+            <path id="Path_20517" d="M23 6.58a.5.5 0 0 0-.076-.276L19.5.288A.566.566 0 0 0 19.017 0H3.983A.554.554 0 0 0 3.5.288L.076 6.3A.556.556 0 0 0 0 6.58 3.3 3.3 0 0 0 1.974 9.6v9.923a.564.564 0 0 0 .564.564h17.918a.564.564 0 0 0 .564-.564V9.67a.181.181 0 0 0-.006-.059A3.319 3.319 0 0 0 23 6.58zM4.312 1.134h14.376l2.673 4.706H1.639zm12.055 5.828a2.166 2.166 0 0 1-4.265 0zm-5.464 0a2.17 2.17 0 0 1-4.271 0H10.9zm-9.74 0h4.271a2.17 2.17 0 0 1-4.271 0zm8.313 11.99H6.233v-6.086a.806.806 0 0 1 .8-.8h1.644a.806.806 0 0 1 .8.8l-.006 6.086zm10.416 0H10.6v-6.086a1.934 1.934 0 0 0-1.933-1.933H7.032A1.934 1.934 0 0 0 5.1 12.866v6.092h-2V9.876c.065.006.129.006.2.006a3.292 3.292 0 0 0 2.739-1.457 3.3 3.3 0 0 0 5.475 0 3.29 3.29 0 0 0 5.464 0 3.292 3.292 0 0 0 2.738 1.457c.065 0 .129-.006.194-.006v9.077zM19.7 8.754a2.16 2.16 0 0 1-2.133-1.786h4.271A2.186 2.186 0 0 1 19.7 8.754zm0 0" class="cls-3" data-name="Path 20517"/>
+            <g id="Rectangle_7979" class="cls-4" data-name="Rectangle 7979" transform="translate(12.5 11)">
+                <rect width="6" height="5" class="cls-5" rx="1"/>
+                <rect width="5" height="4" x=".5" y=".5" class="cls-1" rx=".5"/>
+            </g>
+        </g>
+    </g>
+</svg>

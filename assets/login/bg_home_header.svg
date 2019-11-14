@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}
+        </style>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#10455b"/>
+            <stop offset="1" stop-color="#10455b"/>
+        </linearGradient>
+    </defs>
+    <path id="Path_32304" d="M0 35h360v101.679S293.327 155 180.489 155 0 136.679 0 136.679z" class="cls-1" data-name="Path 32304" transform="translate(0 -35)"/>
+</svg>

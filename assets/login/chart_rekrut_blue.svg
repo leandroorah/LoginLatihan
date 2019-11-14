@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="40" viewBox="0 0 148 40">
+    <defs>
+        <style>
+            .cls-1,.cls-7{fill:#fff}.cls-2,.cls-6{fill:none}.cls-3{clip-path:url(#clip-path)}.cls-4{clip-path:url(#clip-path-2)}.cls-5{fill-rule:evenodd;fill:url(#linear-gradient)}.cls-6{stroke:#7fdddb}.cls-8,.cls-9{stroke:none}.cls-9{fill:#7fdddb}.cls-10{filter:url(#Rectangle_8296)}
+        </style>
+        <filter id="Rectangle_8296" width="184" height="76" x="-18" y="-14" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur result="blur" stdDeviation="6"/>
+            <feFlood flood-color="#10455b" flood-opacity=".078"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <path d="M0 0h148v40H0z" class="cls-2"/>
+        </clipPath>
+        <clipPath id="clip-path-2"/>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="3.926" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#00bcb8" stop-opacity="0"/>
+            <stop offset="1" stop-color="#00bcb8"/>
+        </linearGradient>
+    </defs>
+    <g id="media_Chart_G" class="cls-3">
+        <g id="Mask_Group_23" class="cls-4" data-name="Mask Group 23" transform="translate(-20 -326)">
+            <g id="Group_19949" data-name="Group 19949">
+                <path id="Path_32333" d="M1700-529.787q5.609-13.527 11.476-13.527c5.867 0 13.02 13.331 24.614 10.914s6.987 13.653 16.087 15.287 16.522-10.189 21.4-11.1 12.242 2.58 18.929 4.1 8.685-2.938 13.471-4.1 7.244 11.208 13.216 10.308 1.988-10.308 9.176-10.308 2.587-18.79 8.831-13.614q6.244 5.176 10.8-5.176v40.107h-148z" class="cls-5" data-name="Path 32333" transform="translate(-1680 873.318)"/>
+                <path id="Path_32334" d="M-1 17.418C2.735 8.4 7.565 3.686 11.476 3.686c5.867 0 13.019 13.331 24.613 10.914s6.987 13.653 16.087 15.287S68.833 19.7 73.713 18.79s12.107 2.58 18.794 4.1 8.685-2.938 13.471-4.1S113.223 30 119.195 29.1s1.988-10.308 9.176-10.308S130.959 0 137.2 5.176Q143.446 10.352 148 0" class="cls-6" data-name="Path 32334" transform="translate(20.5 326.732)"/>
+            </g>
+        </g>
+        <g id="Path_32343" class="cls-7" data-name="Path 32343">
+            <path d="M3 5c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2z" class="cls-8" transform="translate(9 1)"/>
+            <path d="M3 2a1.001 1.001 0 0 0 0 2 1.001 1.001 0 0 0 0-2m0-2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" class="cls-9" transform="translate(9 1)"/>
+        </g>
+        <g id="Path_32345" class="cls-7" data-name="Path 32345">
+            <path d="M3 5c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2z" class="cls-8" transform="translate(50 27)"/>
+            <path d="M3 2a1.001 1.001 0 0 0 0 2 1.001 1.001 0 0 0 0-2m0-2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" class="cls-9" transform="translate(50 27)"/>
+        </g>
+        <g id="Path_32347" class="cls-7" data-name="Path 32347">
+            <path d="M3 5c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2z" class="cls-8" transform="translate(105 16)"/>
+            <path d="M3 2a1.001 1.001 0 0 0 0 2 1.001 1.001 0 0 0 0-2m0-2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" class="cls-9" transform="translate(105 16)"/>
+        </g>
+        <g id="Path_32349" class="cls-7" data-name="Path 32349">
+            <path d="M3 5c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2z" class="cls-8" transform="translate(132 3)"/>
+            <path d="M3 2a1.001 1.001 0 0 0 0 2 1.001 1.001 0 0 0 0-2m0-2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" class="cls-9" transform="translate(132 3)"/>
+        </g>
+    </g>
+</svg>

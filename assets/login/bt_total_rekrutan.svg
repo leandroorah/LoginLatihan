@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="80" viewBox="0 0 128 80">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#effbfb}.cls-4{fill:#e2f9f8}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_8315" d="M0 0h118a10 10 0 0 1 10 10v60a10 10 0 0 1-10 10H0V0z" class="cls-1" data-name="Rectangle 8315" transform="translate(-3953 -20551)"/>
+        </clipPath>
+    </defs>
+    <g id="media_supergrapic1" class="cls-2" transform="translate(3953 20551)">
+        <g id="Group_19894" data-name="Group 19894" transform="translate(82 -160)">
+            <path id="Path_32320" d="M66 0a66 66 0 0 1 0 132c-27.775 0-51.487-19.172-61.32-43.118a75.395 75.395 0 0 1-2.34-6.562A55.5 55.5 0 0 1 0 66C0 33 29.549 0 66 0z" class="cls-3" data-name="Path 32320" transform="rotate(-14 -85149.069 6273.578)"/>
+            <path id="Path_32319" d="M66 0a66 66 0 0 1 0 132C29.549 132 0 66 0 66S29.549 0 66 0z" class="cls-4" data-name="Path 32319" transform="rotate(-9 -131606.968 15432.736)"/>
+        </g>
+    </g>
+</svg>
